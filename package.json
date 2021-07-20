@@ -19,6 +19,6 @@
   "devDependencies": {
     "babel-preset-react-native": "^4.0.1",
     "react": "^16.8.6",
-    "react-native": "^0.59.9"
+    "react-native": "^0.62.3"
   }
 }
